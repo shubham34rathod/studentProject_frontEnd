@@ -1,0 +1,19 @@
+.box1 table,th,td{
+    border: 1px solid;
+}
+.box1{
+    margin-top: 30px;
+}
+.box1 th,td{
+    /* width: 70px; */
+    padding: 5px;
+}
+.tableData{
+    display: flex;
+}
+.box2{
+    margin: auto;
+}
+.box2 table{
+    margin-top: 30px;
+}

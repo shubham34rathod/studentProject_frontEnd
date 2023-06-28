@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+.box{
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+}
+.heading{
+    text-decoration: underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+}
+.marks{
+    width: 150px;
+    margin: 10px 18px 10px 0px;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+}
+sup{
+    color: red;
+}
